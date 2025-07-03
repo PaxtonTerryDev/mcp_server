@@ -1,0 +1,5 @@
+{
+  "github.copilot.advanced": {
+    "mcp.server.url": "http://localhost:7575/mcp"
+  }
+}
